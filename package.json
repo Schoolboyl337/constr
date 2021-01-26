@@ -1,0 +1,20 @@
+{
+  "name": "constructor",
+  "version": "1.0.0",
+  "description": "Js code",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel ./src/index.html -p 4200 --open",
+    "build": "parcel build ./src/index.html"
+  },
+  "keywords": [
+    "Js",
+    "JavaScript"
+  ],
+  "author": "Sergei <sergei@gmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
